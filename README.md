@@ -1,4 +1,4 @@
-# springboot_kafka_real_world_project
+# springboot_kafka_wikimedia_mysql_project
 
 <p>I created two projects, one for kafka producer another for kafka consumer. 
 Kafka producer project was created to implement kafka producer to read the real time stream data from the wikimedia
